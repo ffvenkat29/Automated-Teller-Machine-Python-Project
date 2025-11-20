@@ -45,7 +45,7 @@ Example Users (from code)
 
       Account No.	Name	Balance	PIN
       62433570421	John	12000	1234
-      62433570422	Bob	5000	2244
+      62433570422	Bob	    5000	2244
       62433570423	Charles	1000	9900
       62433570424	David	1500	5678
       62433570425	Reena	7500	9966
